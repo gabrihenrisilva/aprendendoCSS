@@ -1,0 +1,14 @@
+body {
+    background-color: rgb(244, 183, 183);
+  }
+  
+  h1 {
+    color: white;
+    text-align: center;
+  }
+  
+  p {
+    color: rgb(253, 0, 0);
+    font-family: verdana;
+    font-size: 20px;
+  }
