@@ -1,11 +1,13 @@
 body {
-  background-color: rgb(194, 227, 250, 0.7)
+   background-image: url("download.jfif");
+   
+ 
 }
 
 h1 {
   color: white;
   background-color: rgb(255, 195, 195);
-  border: 2px solid rgb(255, 188, 176);
+  border: 2px solid rgb(207, 55, 28);
   text-shadow: 2px 2px gray;
   font-family:Georgia, 'Times New Roman', Times, serif
   
@@ -20,7 +22,22 @@ h1 {
 
 }
 .fonte-verde {
-  color: rgb(2, 2, 2);
+  color: rgb(255, 255, 255);
+  border-style: solid ;
+  border-radius: 2px 5px;
+  margin-left: 50px;
+  margin-right: 50px;
+  margin-top: 20px;
+}
+
+.fonte-branca {
+  color: rgb(255, 255, 255);
+  border-style: solid;
+  border-radius: 2px 5px;
+  margin-left: 50px;
+  margin-right: 50px;
+  margin-top: 50px;
+  margin-bottom: 0px;
 }
 
 /* id */
